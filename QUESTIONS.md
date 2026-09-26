@@ -24,7 +24,7 @@ you plan to use for your change.**
 **3. Does this project expect a linked issue before opening a PR, or is a PR
 description enough?**
 
-> In this project i dont think  
+> In this project I dont think, pr description is enough  
 ---
 
 ## Part 2 — After forking and cloning
@@ -38,9 +38,9 @@ upstream	https://github.com/IbrahimYasserM/Practice-Repository.git (fetch)
 upstream	https://github.com/IbrahimYasserM/Practice-Repository.git (push)
 
 
-the first 2 lines (origin) are related to my repo when i push or make any changes they appear in 
-my repo the origin while the upstream is linked to the original repo i forked,so when i want to 
-fetch the changes done in the original repo or what to make pr i have to link my repo to the upstream
+the first 2 lines (origin) are related to my repo when I push or make any changes they appear in 
+my repo the origin while the upstream is linked to the original repo I forked,so when I want to 
+fetch the changes done in the original repo or what to make pr I have to link my repo to the upstream
 
 ---
 
@@ -64,7 +64,7 @@ follow the convention from `CONTRIBUTING.md`?**
 
 **7. How did you resolve it — what did you keep, remove, or combine, and why?**
 
-> I removed the names of the branches and the >>>>> signs and then put the contributors names in alphabetical order
+> I removed the names of the branches and the >>>>> signs and then put the contributors names in an alphabetical order
 
 ---
 
