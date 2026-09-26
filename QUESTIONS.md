@@ -73,8 +73,8 @@ follow the convention from `CONTRIBUTING.md`?**
 **8. Paste your PR link. How many commits and how many files changed does
 your PR show?**
 
-> Your answer here.
-
+> 5 commits and 2 files changed
+https://github.com/IbrahimYasserM/Practice-Repository/pull/30
 ---
 
 ## Part 6 — Final reflection
